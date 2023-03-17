@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+1. primeiro item
+2. segundo item
+3. terceiro item
+
+* item a
+* item b
+* item c
+
+[] item j
+[x] item k
+[] item l
+
 <!--
 **profluanoperalta/profluanoperalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
